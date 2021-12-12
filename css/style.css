@@ -4,3 +4,7 @@ body{
   background-color: #000000;
   display: block;
 }
+.header{
+  margin: 10px;
+  padding: 10px;
+}
